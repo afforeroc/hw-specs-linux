@@ -5,7 +5,7 @@ model		: 78
 model name	: Intel(R) Core(TM) i7-6500U CPU @ 2.50GHz
 stepping	: 3
 microcode	: 0xc6
-cpu MHz		: 2098.581
+cpu MHz		: 499.758
 cache size	: 4096 KB
 physical id	: 0
 siblings	: 4
@@ -32,7 +32,7 @@ model		: 78
 model name	: Intel(R) Core(TM) i7-6500U CPU @ 2.50GHz
 stepping	: 3
 microcode	: 0xc6
-cpu MHz		: 2099.919
+cpu MHz		: 500.000
 cache size	: 4096 KB
 physical id	: 0
 siblings	: 4
@@ -59,7 +59,7 @@ model		: 78
 model name	: Intel(R) Core(TM) i7-6500U CPU @ 2.50GHz
 stepping	: 3
 microcode	: 0xc6
-cpu MHz		: 2099.913
+cpu MHz		: 499.751
 cache size	: 4096 KB
 physical id	: 0
 siblings	: 4
@@ -86,7 +86,7 @@ model		: 78
 model name	: Intel(R) Core(TM) i7-6500U CPU @ 2.50GHz
 stepping	: 3
 microcode	: 0xc6
-cpu MHz		: 2047.631
+cpu MHz		: 499.990
 cache size	: 4096 KB
 physical id	: 0
 siblings	: 4
